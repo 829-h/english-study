@@ -1,0 +1,942 @@
+[
+  {
+    "file": "audio/p/iy.m4a",
+    "author": "No machine-readable author provided. Denelson83 assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Close_front_unrounded_vowel.ogg",
+    "source": "Close_front_unrounded_vowel.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/ih.m4a",
+    "author": "No machine-readable author provided. Denelson83 assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Near-close_near-front_unrounded_vowel.ogg",
+    "source": "Near-close_near-front_unrounded_vowel.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/e.m4a",
+    "author": "No machine-readable author provided. Denelson83 assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Open-mid_front_unrounded_vowel.ogg",
+    "source": "Open-mid_front_unrounded_vowel.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/ae.m4a",
+    "author": "No machine-readable author provided. Denelson83 assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Near-open_front_unrounded_vowel.ogg",
+    "source": "Near-open_front_unrounded_vowel.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/aa.m4a",
+    "author": "No machine-readable author provided. Denelson83 assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Open_back_unrounded_vowel.ogg",
+    "source": "Open_back_unrounded_vowel.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/uh.m4a",
+    "author": "No machine-readable author provided. Denelson83 assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Open-mid_back_unrounded_vowel.ogg",
+    "source": "Open-mid_back_unrounded_vowel.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/aw.m4a",
+    "author": "No machine-readable author provided. Denelson83 assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Open-mid_back_rounded_vowel.ogg",
+    "source": "Open-mid_back_rounded_vowel.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/o.m4a",
+    "author": "No machine-readable author provided. Denelson83 assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Open_back_rounded_vowel.ogg",
+    "source": "Open_back_rounded_vowel.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/uw.m4a",
+    "author": "No machine-readable author provided. Denelson83 assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Close_back_rounded_vowel.ogg",
+    "source": "Close_back_rounded_vowel.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/uu.m4a",
+    "author": "No machine-readable author provided. Denelson83 assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Near-close_near-back_rounded_vowel.ogg",
+    "source": "Near-close_near-back_rounded_vowel.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/er.m4a",
+    "author": "No machine-readable author provided. Denelson83 assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Open-mid_central_unrounded_vowel.ogg",
+    "source": "Open-mid_central_unrounded_vowel.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/schwa.m4a",
+    "author": "No machine-readable author provided. Denelson83 assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mid-central_vowel.ogg",
+    "source": "Mid-central_vowel.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/ei.m4a",
+    "author": "Speaker: Back ache Recorder: Back ache",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-play.wav",
+    "source": "LL-Q1860 (eng)-Back ache-play.wav",
+    "accent": "en-GB",
+    "fallback": "word",
+    "word": "play"
+  },
+  {
+    "file": "audio/p/ai.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-bye.ogg",
+    "source": "En-uk-bye.ogg",
+    "accent": "en-GB",
+    "fallback": "word",
+    "word": "bye"
+  },
+  {
+    "file": "audio/p/oi.m4a",
+    "author": "Speaker: Back ache Recorder: Back ache",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-boy.wav",
+    "source": "LL-Q1860 (eng)-Back ache-boy.wav",
+    "accent": "en-GB",
+    "fallback": "word",
+    "word": "boy"
+  },
+  {
+    "file": "audio/p/au.m4a",
+    "author": "Speaker: Back ache Recorder: Back ache",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-out.wav",
+    "source": "LL-Q1860 (eng)-Back ache-out.wav",
+    "accent": "en-GB",
+    "fallback": "word",
+    "word": "out"
+  },
+  {
+    "file": "audio/p/ou.m4a",
+    "author": "Speaker: Back ache Recorder: Back ache",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-go.wav",
+    "source": "LL-Q1860 (eng)-Back ache-go.wav",
+    "accent": "en-GB",
+    "fallback": "word",
+    "word": "go"
+  },
+  {
+    "file": "audio/p/ia.m4a",
+    "author": "No machine-readable author provided. Chris Melville assumed (based on copyright claims).",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-ear.ogg",
+    "source": "En-uk-ear.ogg",
+    "accent": "en-GB",
+    "fallback": "word",
+    "word": "ear"
+  },
+  {
+    "file": "audio/p/ea.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-hair.ogg",
+    "source": "En-uk-hair.ogg",
+    "accent": "en-GB",
+    "fallback": "word",
+    "word": "hair"
+  },
+  {
+    "file": "audio/p/ua.m4a",
+    "author": "Celestianpower（上传者）",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-poor.ogg",
+    "source": "En-uk-poor.ogg",
+    "accent": "en-GB",
+    "fallback": "word",
+    "word": "poor"
+  },
+  {
+    "file": "audio/p/p.m4a",
+    "author": "Joni~commonswiki（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_bilabial_plosive.ogg",
+    "source": "Voiceless_bilabial_plosive.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/b.m4a",
+    "author": "Karmosin~commonswiki（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_bilabial_plosive.ogg",
+    "source": "Voiced_bilabial_plosive.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/t.m4a",
+    "author": "Karmosin~commonswiki（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_alveolar_plosive.ogg",
+    "source": "Voiceless_alveolar_plosive.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/d.m4a",
+    "author": "Karmosin~commonswiki（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_alveolar_plosive.ogg",
+    "source": "Voiced_alveolar_plosive.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/k.m4a",
+    "author": "Karmosin~commonswiki（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_velar_plosive.ogg",
+    "source": "Voiceless_velar_plosive.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/g.m4a",
+    "author": "BetacommandBot（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_velar_plosive_02.ogg",
+    "source": "Voiced_velar_plosive_02.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/f.m4a",
+    "author": "Karmosin~commonswiki（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_labiodental_fricative.ogg",
+    "source": "Voiceless_labiodental_fricative.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/v.m4a",
+    "author": "Karmosin~commonswiki（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_labiodental_fricative.ogg",
+    "source": "Voiced_labiodental_fricative.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/th.m4a",
+    "author": "Peter Isotalo（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_dental_fricative.ogg",
+    "source": "Voiceless_dental_fricative.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/dh.m4a",
+    "author": "Peter Isotalo（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_dental_fricative.ogg",
+    "source": "Voiced_dental_fricative.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/s.m4a",
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_alveolar_sibilant.ogg",
+    "source": "Voiceless_alveolar_sibilant.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/z.m4a",
+    "author": "Karmosin~commonswiki（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_alveolar_sibilant.ogg",
+    "source": "Voiced_alveolar_sibilant.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/sh.m4a",
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_palato-alveolar_sibilant.ogg",
+    "source": "Voiceless_palato-alveolar_sibilant.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/zh.m4a",
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_palato-alveolar_sibilant.ogg",
+    "source": "Voiced_palato-alveolar_sibilant.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/ch.m4a",
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_palato-alveolar_affricate.ogg",
+    "source": "Voiceless_palato-alveolar_affricate.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/j.m4a",
+    "author": "The original uploader was Octane at English Wikipedia.",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_palato-alveolar_affricate.ogg",
+    "source": "Voiced_palato-alveolar_affricate.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/tr.m4a",
+    "author": "Speaker: Back ache Recorder: Back ache",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-train.wav",
+    "source": "LL-Q1860 (eng)-Back ache-train.wav",
+    "accent": "en-GB",
+    "fallback": "word",
+    "word": "train"
+  },
+  {
+    "file": "audio/p/dr.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-drink.ogg",
+    "source": "En-uk-drink.ogg",
+    "accent": "en-GB",
+    "fallback": "word",
+    "word": "drink"
+  },
+  {
+    "file": "audio/p/ts.m4a",
+    "author": "Karmosin~commonswiki（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_alveolar_sibilant_affricate.oga",
+    "source": "Voiceless_alveolar_affricate.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/dz.m4a",
+    "author": "Peter Isotalo（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_alveolar_sibilant_affricate.oga",
+    "source": "Voiced_alveolar_affricate.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/h.m4a",
+    "author": "Karmosin~commonswiki（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_glottal_fricative.ogg",
+    "source": "Voiceless_glottal_fricative.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/m.m4a",
+    "author": "Karmosin~commonswiki（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bilabial_nasal.ogg",
+    "source": "Bilabial_nasal.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/n.m4a",
+    "author": "Peter Isotalo（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Alveolar_nasal.ogg",
+    "source": "Alveolar_nasal.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/ng.m4a",
+    "author": "Karmosin~commonswiki（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Velar_nasal.ogg",
+    "source": "Velar_nasal.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/l.m4a",
+    "author": "Karmosin~commonswiki（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Alveolar_lateral_approximant.ogg",
+    "source": "Alveolar_lateral_approximant.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/r.m4a",
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Postalveolar_approximant.ogg",
+    "source": "Postalveolar_approximant.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/w.m4a",
+    "author": "Karmosin~commonswiki（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_labio-velar_approximant.ogg",
+    "source": "Voiced_labio-velar_approximant.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/p/y.m4a",
+    "author": "Karmosin~commonswiki（上传者）",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Palatal_approximant.ogg",
+    "source": "Palatal_approximant.ogg",
+    "accent": "ipa"
+  },
+  {
+    "file": "audio/w/eat.m4a",
+    "author": "Speaker: Back ache Recorder: Back ache",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-eat.wav",
+    "source": "LL-Q1860 (eng)-Back ache-eat.wav",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/see.m4a",
+    "author": "Speaker: Back ache Recorder: Back ache",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-see.wav",
+    "source": "LL-Q1860 (eng)-Back ache-see.wav",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/tea.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-tea.ogg",
+    "source": "En-uk-tea.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/it.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-it.ogg",
+    "source": "En-uk-it.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/big.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-big.ogg",
+    "source": "En-uk-big.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/milk.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-milk.ogg",
+    "source": "En-uk-milk.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/bed.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-bed.ogg",
+    "source": "En-uk-bed.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/red.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-red.ogg",
+    "source": "En-uk-red.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/egg.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-egg.ogg",
+    "source": "En-uk-egg.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/cat.m4a",
+    "author": "Dvortygirl",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:En-us-cat.ogg",
+    "source": "En-us-cat.ogg",
+    "accent": "en-US"
+  },
+  {
+    "file": "audio/w/apple.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-apple.ogg",
+    "source": "En-uk-apple.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/hat.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-hat.ogg",
+    "source": "En-uk-hat.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/father.m4a",
+    "author": "Speaker: Back ache Recorder: Back ache",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-father.wav",
+    "source": "LL-Q1860 (eng)-Back ache-father.wav",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/car.m4a",
+    "author": "Speaker: Back ache Recorder: Back ache",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-car.wav",
+    "source": "LL-Q1860 (eng)-Back ache-car.wav",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/arm.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-arm.ogg",
+    "source": "En-uk-arm.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/cup.m4a",
+    "author": "Speaker: Back ache Recorder: Back ache",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-cup.wav",
+    "source": "LL-Q1860 (eng)-Back ache-cup.wav",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/duck.m4a",
+    "author": "Dvortygirl",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:En-us-duck.ogg",
+    "source": "En-us-duck.ogg",
+    "accent": "en-US"
+  },
+  {
+    "file": "audio/w/bus.m4a",
+    "author": "ThirteenToThirty",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:En-Buss.ogg",
+    "source": "en-Buss.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/ball.m4a",
+    "author": "Dvortygirl",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:En-us-ball.ogg",
+    "source": "En-us-ball.ogg",
+    "accent": "en-US"
+  },
+  {
+    "file": "audio/w/walk.m4a",
+    "author": "Adam470",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-walk.ogg",
+    "source": "En-uk-walk.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/four.m4a",
+    "author": "Speaker: Back ache Recorder: Back ache",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-four.wav",
+    "source": "LL-Q1860 (eng)-Back ache-four.wav",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/box.m4a",
+    "author": "Speaker: Back ache Recorder: Back ache",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-box.wav",
+    "source": "LL-Q1860 (eng)-Back ache-box.wav",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/hot.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-hot.ogg",
+    "source": "En-uk-hot.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/sock.m4a",
+    "author": "No machine-readable author provided. Dvortygirl assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:En-us-sock.ogg",
+    "source": "En-us-sock.ogg",
+    "accent": "en-US"
+  },
+  {
+    "file": "audio/w/food.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-food.ogg",
+    "source": "En-uk-food.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/shoe.m4a",
+    "author": "Dvortygirl",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:En-us-shoe.ogg",
+    "source": "En-us-shoe.ogg",
+    "accent": "en-US"
+  },
+  {
+    "file": "audio/w/moon.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-moon.ogg",
+    "source": "En-uk-moon.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/book.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-book.ogg",
+    "source": "En-uk-book.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/foot.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-foot.ogg",
+    "source": "En-uk-foot.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/shirt.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-shirt.ogg",
+    "source": "En-uk-shirt.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/banana.m4a",
+    "author": "D3VIL",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-banana.ogg",
+    "source": "En-uk-banana.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/cake.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-cake.ogg",
+    "source": "En-uk-cake.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/bye.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-bye.ogg",
+    "source": "En-uk-bye.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/boy.m4a",
+    "author": "Speaker: Back ache Recorder: Back ache",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-boy.wav",
+    "source": "LL-Q1860 (eng)-Back ache-boy.wav",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/out.m4a",
+    "author": "Speaker: Back ache Recorder: Back ache",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-out.wav",
+    "source": "LL-Q1860 (eng)-Back ache-out.wav",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/mouth.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-mouth.ogg",
+    "source": "En-uk-mouth.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/go.m4a",
+    "author": "Speaker: Back ache Recorder: Back ache",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-go.wav",
+    "source": "LL-Q1860 (eng)-Back ache-go.wav",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/nose.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-nose.ogg",
+    "source": "En-uk-nose.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/ear.m4a",
+    "author": "No machine-readable author provided. Chris Melville assumed (based on copyright claims).",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-ear.ogg",
+    "source": "En-uk-ear.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/here.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-here.ogg",
+    "source": "En-uk-here.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/hair.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-hair.ogg",
+    "source": "En-uk-hair.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/chair.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-chair.ogg",
+    "source": "En-uk-chair.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/bear.m4a",
+    "author": "Dvortygirl",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:En-us-bear.ogg",
+    "source": "En-us-bear.ogg",
+    "accent": "en-US"
+  },
+  {
+    "file": "audio/w/poor.m4a",
+    "author": "Celestianpower（上传者）",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-poor.ogg",
+    "source": "En-uk-poor.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/tour.m4a",
+    "author": "Dvortygirl",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:En-us-tour.ogg",
+    "source": "En-us-tour.ogg",
+    "accent": "en-US"
+  },
+  {
+    "file": "audio/w/toe.m4a",
+    "author": "Dvortygirl",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:En-us-toe.ogg",
+    "source": "En-us-toe.ogg",
+    "accent": "en-US"
+  },
+  {
+    "file": "audio/w/dog.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-dog.ogg",
+    "source": "En-uk-dog.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/fish.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-fish.ogg",
+    "source": "En-uk-fish.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/van.m4a",
+    "author": "Dvortygirl",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:En-us-van.ogg",
+    "source": "En-us-van.ogg",
+    "accent": "en-US"
+  },
+  {
+    "file": "audio/w/vest.m4a",
+    "author": "Dvortygirl",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:En-us-vest.ogg",
+    "source": "En-us-vest.ogg",
+    "accent": "en-US"
+  },
+  {
+    "file": "audio/w/this.m4a",
+    "author": "Speaker: Back ache Recorder: Back ache",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-this.wav",
+    "source": "LL-Q1860 (eng)-Back ache-this.wav",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/mother.m4a",
+    "author": "No machine-readable author provided. Baryonic Being~commonswiki assumed (based on copyright claims).",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-mother.ogg",
+    "source": "En-uk-mother.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/sheep.m4a",
+    "author": "Dvortygirl",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:En-us-sheep.ogg",
+    "source": "En-us-sheep.ogg",
+    "accent": "en-US"
+  },
+  {
+    "file": "audio/w/television.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-television.ogg",
+    "source": "En-uk-television.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/treasure.m4a",
+    "author": "Dvortygirl",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:En-us-treasure.ogg",
+    "source": "En-us-treasure.ogg",
+    "accent": "en-US"
+  },
+  {
+    "file": "audio/w/jump.m4a",
+    "author": "TreeMama",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:En-us-jump.ogg",
+    "source": "En-us-jump.ogg",
+    "accent": "en-US"
+  },
+  {
+    "file": "audio/w/tree.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-tree.ogg",
+    "source": "En-uk-tree.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/train.m4a",
+    "author": "Speaker: Back ache Recorder: Back ache",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-train.wav",
+    "source": "LL-Q1860 (eng)-Back ache-train.wav",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/drink.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-drink.ogg",
+    "source": "En-uk-drink.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/nine.m4a",
+    "author": "Speaker: Back ache Recorder: Back ache",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-nine.wav",
+    "source": "LL-Q1860 (eng)-Back ache-nine.wav",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/sing.m4a",
+    "author": "No machine-readable author provided. Celestianpower assumed (based on copyright claims).",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-sing.ogg",
+    "source": "En-uk-sing.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/ring.m4a",
+    "author": "Dvortygirl",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:En-us-ring.ogg",
+    "source": "En-us-ring.ogg",
+    "accent": "en-US"
+  },
+  {
+    "file": "audio/w/rabbit.m4a",
+    "author": "Dvortygirl",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:En-us-rabbit.ogg",
+    "source": "En-us-rabbit.ogg",
+    "accent": "en-US"
+  },
+  {
+    "file": "audio/w/water.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-water.ogg",
+    "source": "En-uk-water.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/wash.m4a",
+    "author": "Dvortygirl",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:En-us-wash.ogg",
+    "source": "En-us-wash.ogg",
+    "accent": "en-US"
+  },
+  {
+    "file": "audio/w/yes.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-yes.ogg",
+    "source": "En-uk-yes.ogg",
+    "accent": "en-GB"
+  },
+  {
+    "file": "audio/w/you.m4a",
+    "author": "Association Shtooka, Judith Franck",
+    "license": "CC BY 3.0 us",
+    "url": "https://commons.wikimedia.org/wiki/File:En-uk-you.ogg",
+    "source": "En-uk-you.ogg",
+    "accent": "en-GB"
+  }
+]
